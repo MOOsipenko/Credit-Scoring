@@ -12,4 +12,4 @@ In this problem you are given historical data: a set of 10 attributes on loan ap
 The process of solving that problem is presented in the notebook "Final.ipynb"
 
 ## Presentation
-My team and I created a special presentation, combining our best decisions, analytics and visualization of the data and suitable machine learning algorythms and their  evaluations.
+My team and I created a special presentation, combining our best decisions, analytics and visualization of the data and suitable machine learning algorythms and their  evaluations "scoring cmf.pptx".
